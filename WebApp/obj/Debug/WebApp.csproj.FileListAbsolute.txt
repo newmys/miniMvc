@@ -1,0 +1,15 @@
+E:\工作参考资料\ASP.NET MVC\MiniMvc2\MiniMvc\WebApp\bin\WebApp.dll
+E:\工作参考资料\ASP.NET MVC\MiniMvc2\MiniMvc\WebApp\bin\WebApp.pdb
+E:\工作参考资料\ASP.NET MVC\MiniMvc2\MiniMvc\WebApp\bin\Artech.MiniMvc.dll
+E:\工作参考资料\ASP.NET MVC\MiniMvc2\MiniMvc\WebApp\bin\Artech.MiniMvc.pdb
+E:\工作参考资料\ASP.NET MVC\MiniMvc2\MiniMvc\WebApp\obj\Debug\WebApp.csprojResolveAssemblyReference.cache
+E:\工作参考资料\ASP.NET MVC\MiniMvc2\MiniMvc\WebApp\obj\Debug\WebApp.dll
+E:\工作参考资料\ASP.NET MVC\MiniMvc2\MiniMvc\WebApp\obj\Debug\WebApp.pdb
+D:\Projects\DotNet\MiniMvc2\MiniMvc\WebApp\bin\WebApp.dll.config
+D:\Projects\DotNet\MiniMvc2\MiniMvc\WebApp\bin\WebApp.dll
+D:\Projects\DotNet\MiniMvc2\MiniMvc\WebApp\bin\WebApp.pdb
+D:\Projects\DotNet\MiniMvc2\MiniMvc\WebApp\bin\Artech.MiniMvc.dll
+D:\Projects\DotNet\MiniMvc2\MiniMvc\WebApp\bin\Artech.MiniMvc.pdb
+D:\Projects\DotNet\MiniMvc2\MiniMvc\WebApp\obj\Debug\WebApp.csprojResolveAssemblyReference.cache
+D:\Projects\DotNet\MiniMvc2\MiniMvc\WebApp\obj\Debug\WebApp.dll
+D:\Projects\DotNet\MiniMvc2\MiniMvc\WebApp\obj\Debug\WebApp.pdb

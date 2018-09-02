@@ -1,0 +1,9 @@
+E:\工作参考资料\ASP.NET MVC\MiniMvc2\MiniMvc\MiniMvc\bin\Debug\Artech.MiniMvc.dll
+E:\工作参考资料\ASP.NET MVC\MiniMvc2\MiniMvc\MiniMvc\bin\Debug\Artech.MiniMvc.pdb
+E:\工作参考资料\ASP.NET MVC\MiniMvc2\MiniMvc\MiniMvc\obj\Debug\Artech.MiniMvc.dll
+E:\工作参考资料\ASP.NET MVC\MiniMvc2\MiniMvc\MiniMvc\obj\Debug\Artech.MiniMvc.pdb
+D:\Projects\DotNet\MiniMvc2\MiniMvc\MiniMvc\bin\Debug\Artech.MiniMvc.dll
+D:\Projects\DotNet\MiniMvc2\MiniMvc\MiniMvc\bin\Debug\Artech.MiniMvc.pdb
+D:\Projects\DotNet\MiniMvc2\MiniMvc\MiniMvc\obj\Debug\MiniMvc.csprojResolveAssemblyReference.cache
+D:\Projects\DotNet\MiniMvc2\MiniMvc\MiniMvc\obj\Debug\Artech.MiniMvc.dll
+D:\Projects\DotNet\MiniMvc2\MiniMvc\MiniMvc\obj\Debug\Artech.MiniMvc.pdb
